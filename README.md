@@ -6,8 +6,8 @@ BEM VINDOS AO MEU PERFIL!!!
 📚 Aprendendo JS<br>
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareduds&layout=compact&langs_count=7&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mareduds&theme=radical&show_icons=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareduds&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mareduds&theme=radical&show_icons=true"/>
 </div>
 
 <br>
