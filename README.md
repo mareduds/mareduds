@@ -1,16 +1,17 @@
-### Hi there 👋
+BEM VINDOS AO MEU PERFIL!!!
 
-<!--
-**mareduds/mareduds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦄 Me chamo Maria Eduarda<br>
+😊 Pronomes: ela/dela<br>
+💻 Sou estudante de Engenharia de software<br>
+📚 Aprendendo JS<br>
+<div>
+Clique <a href="instagram.com/https://www.instagram.com/_informare/" target="_blank">aqui<a> para conhecer meu Instagram!
+<br>
+<br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareduds&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mareduds&theme=radical&show_icons=true"/>
+</div>
+<div style="display: inline_block"><br>
