@@ -1,6 +1,6 @@
 BEM VINDOS AO MEU PERFIL!!!
 
-Maria Eduarda, 26 anos.<br>
+Maria Eduarda, 29 anos.<br>
 Pronomes: ela/dela<br>
 💻 Estudante de Engenharia de software<br>
 📚 Aprendendo JS<br>
